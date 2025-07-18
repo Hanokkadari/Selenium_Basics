@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 
 public class Sample {
-	//git editing
+	//git editing to git push
 	
 	@Test
  public void test()
